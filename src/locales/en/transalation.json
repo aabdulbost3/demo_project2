@@ -1,0 +1,99 @@
+{
+    "Navbar": {
+        "0": "Gallery",
+        "1": "About the hotel",
+        "2": "Numbers",
+        "3": "Reviews",
+        "4": "Contacts"
+    },
+    "Footer": {
+        "0": "Gallery",
+        "1": "About the hotel",
+        "2": "Numbers",
+        "3": "Reviews",
+        "4": "Terms and Conditions",
+        "5": "Contacts",
+        "6": "Single room",
+        "7": "One-room lux",
+        "8": "Two-room lux",
+        "9": "Two-room lux",
+        "10": "Family room",
+        "11": "Family Suite",
+        "12": "160 Bogishamol street",
+        "13" : "Call"
+    },
+    "Homehero": {
+        "0": "REVER HOTEL",
+        "1": "We are glad to welcome you to the 'Rever' hotel, which is famous for its oriental hospitality and is located in the very center of Tashkent!",
+        "2": "View numbers",
+        "3": "Scroll down",
+        "4": "Tashkent, Chilanzar district, Bunyodkor street, 57"
+    },
+    "Reserv": {
+        "0": "Room booking",
+        "1": "Check in",
+        "2": "Departure",
+        "3": "Guests",
+        "4": "Select number",
+        "5": "your phone number",
+        "6": "Find number",
+        "7": "Adults",
+        "8": "Children",
+        "9" : "Your application is accepted",
+        "10" : "dd/mm/yyyy"
+    },
+    "Galery": {
+        "0": "Gallery"
+    },
+    "AboutHotel": {
+        "0": "About hotel",
+        "1": "We are glad to welcome you to the hotel 'Uzbekistan', which is famous for its oriental hospitality and is located in the very center of Tashkent! It offers a gym, sauna, and cozy air-conditioned rooms with flat-screen TVs for a comfortable stay.Hotel Uzbekistan offers classically furnished rooms and suites with a minibar. The interiors are decorated with dark wood furniture and elegant fabrics. European and local cuisine is served in the elegant grand piano restaurant. Cafe-bar 'Vienna' offers a wide selection of hot and cold drinks. There is also a snack bar on site. There are many attractions, shops and cafes very close to the hotel. Amir Temur metro station is a 5-minute walk. Staff at the 24-hour front desk can arrange a shuttle service to Tashkent Airport, 10 km away. Welcome to the hotel 'Uzbekistan'!",
+        "2": "Why us?",
+        "3": "Cleanliness and safety",
+        "4": "Affordable prices",
+        "5": "Convenient location"
+    },
+    "Terms": {
+        "0": "Conditions of residence",
+        "1": "Hotel policies are general and may vary depending on the type of accommodation chosen. Children of all ages are allowed. Children aged 12 and over are considered adults. Pets are allowed. Charges may apply.",
+        "2": "Cancellation policy",
+        "3": "Cancellation and prepayment policies depend on the selected rate plan. Please enter the dates of your stay and review the terms and conditions of your reservation. Basic rate plan: You can cancel your reservation free of charge up to 24 hours prior to arrival. Non-refundable rate plan: You pay prepayment in the amount of the full price of the stay on the day of booking. In case of cancellation, the prepayment is not refundable.",
+        "4": "Check-in",
+        "5": "Check-out",
+        "6": "Terms and Conditions",
+        "7": " Basic rate plan: You can cancel your booking free of charge up to 24 hours before the start of your search. Availability on the day of order."
+    },
+    "OurHotel": {
+        "0": "Rooms in our hotel",
+        "1": "Area: ",
+        "2": "Number of guests:",
+        "3": "Cost for 1 night: ",
+        "4": "Bron",
+        "5": "Family Suite",
+        "6": "so'm"
+    },
+    "Comments": {
+        "0": "Visitor reviews",
+        "1": "Madina Khakimova",
+        "2": "Hotel policies are general and may vary depending on the type of accommodation selected. Hotel policies are general and may vary depending on the type of accommodation selected"
+    },
+    "Contacts": {
+        "0": "Contacts",
+        "1": "Your name",
+        "2": "Your Name",
+        "3": "Your phone number",
+        "4": "Send",
+        "5": "Our employees will contact you within an hour!",
+        "6": "Our address",
+        "7": "160 Bogishamol street",
+        "8": "Write to us",
+        "9": "Call us",
+        "10": "We're on social media"
+    },
+    "News": {
+        "0": "News",
+        "1": "Luxury hotel opened in Tashkent",
+        "2": "Hotel policies are general and may vary depending on the type of accommodation chosen... More details",
+        "3": "Read more"
+    }
+}

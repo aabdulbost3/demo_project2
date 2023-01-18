@@ -1,0 +1,99 @@
+{
+  "Navbar": {
+    "0": "Galereya",
+    "1": "Mehmonxona haqida",
+    "2": "Raqamlar",
+    "3": "Sharhlar",
+    "4": "Kontaktlar"
+  },
+  "Footer": {
+    "0": "Galereya",
+    "1": "Mehmonxona haqida",
+    "2": "Raqamlar",
+    "3": "Sharhlar",
+    "4": "Shartlar va shartlar",
+    "5": "Kontaktlar",
+    "6": "Bir kishilik xona",
+    "7": "Bir xonali lyuks",
+    "8": "Ikki xonali lyuks",
+    "9": "Ikki xonali lyuks",
+    "10": "Oila xonasi",
+    "11": "Oilaviy lyuks",
+    "12": "160 Bog'ishamol ko'chasi",
+    "13": "Qo'ng'iroq qiling"
+  },
+  "Homehero": {
+    "0": "REVER HOTEL",
+    "1": "Sizni sharqona mehmondo'stligi bilan mashhur va Toshkentning qoq markazida joylashgan 'Rever' mehmonxonasida kutib olishdan mamnunmiz!",
+    "2": "Raqamlarni ko'rish",
+    "3": "pastga aylantiring",
+    "4": "Toshkent, Chilonzor tumani, Bunyodkor ko‘chasi, 57-uy"
+  },
+  "Reserv": {
+    "0": "Xonani band qilish",
+    "1": "Ro'yxatdan o'tish",
+    "2": "Ketish",
+    "3": "Mehmonlar",
+    "4": "Raqamni tanlang",
+    "5": "Telefon raqamingiz",
+    "6": "Raqamni toping",
+    "7": "Kattalar",
+    "8": "Bolalar",
+    "9": "Sizning arizangiz qabul qilindi",
+    "10": "dd/mm/yyyy"
+  },
+  "Galery": {
+    "0": "Galereya"
+  },
+  "AboutHotel": {
+    "0": "Mehmonxona haqida",
+    "1": "Sizni sharqona mehmondo'stligi bilan mashhur va Toshkentning qoq markazida joylashgan 'O'zbekiston' mehmonxonasida kutib olishdan mamnunmiz! U sport zali, sauna va qulay yashash uchun tekis ekranli televizorlar bilan jihozlangan shinam konditsionerli xonalarni taklif etadi.Hotel Uzbekistan klassik tarzda jihozlangan xonalar va minibar bilan jihozlangan suitlarni taklif etadi. Ichki makonlar quyuq yog'och mebellar va oqlangan matolar bilan bezatilgan. Oqlangan pianino restoranida Yevropa va mahalliy taomlar taqdim etiladi. 'Vena' kafe-bari issiq va sovuq ichimliklarning keng tanlovini taklif etadi. Saytda snack bar ham mavjud. Mehmonxona yaqinida ko'plab attraksionlar, do'konlar va kafelar mavjud. Amir Temur metro bekati piyoda 5 daqiqa. 24 soat xizmat ko'rsatadigan resepsiyon xodimlari 10 km uzoqlikdagi Toshkent aeroportiga transport xizmatini tashkil qilishlari mumkin. 'O'zbekiston' mehmonxonasiga xush kelibsiz!",
+    "2": "Nima uchun biz?",
+    "3": "Tozalik va xavfsizlik",
+    "4": "Hamyonbop narxlar",
+    "5": "Qulay joylashuv"
+  },
+  "Terms": {
+    "0": "Yashash shartlari",
+    "1": "Mehmonxona qoidalari umumiydir va ular tanlangan turar joy turiga qarab farq qilishi mumkin. Barcha yoshdagi bolalarga ruxsat beriladi. 12 va undan katta yoshdagi bolalar kattalar hisoblanadi. Uy hayvonlariga ruxsat beriladi. Toʻlov olinishi mumkin.",
+    "2": "Bekor qilish siyosati",
+    "3": "Bekor qilish va oldindan to'lov siyosati tanlangan tarif rejasiga bog'liq. Iltimos, turar joy sanalarini kiriting va bandlov shartlarini ko'rib chiqing. Asosiy tarif rejasi: bandlovni 24 soat oldin bepul bekor qilishingiz mumkin. Qaytarib bo'lmaydigan tarif rejasi: Siz bron qilingan kuni turar joyning to'liq narxi miqdorida oldindan to'lovni to'laysiz. Bekor qilingan taqdirda oldindan to'lov qaytarilmaydi.",
+    "4": "Ro'yxatdan o'tish",
+    "5": "Chiqish",
+    "6": "Shartlar va shartlar",
+    "7": "Bekor qilish va oldindan to'lov siyosatlari siz tanlagan tarif rejasiga bog'liq. Iltimos, turar joyingizni kiriting va bron qilish shartlarini ko'rib chiqing. Asosiy tarif rejasi: Siz bronni kelishidan 24 soat oldin bepul bekor qilishingiz mumkin. Non -qaytariladigan tarif rejasi: Siz bron qilingan kuni turar joyning to'liq qiymati miqdorida oldindan to'lovni to'laysiz. Bekor qilingan taqdirda oldindan to'lov qaytarilmaydi."
+  },
+  "OurHotel": {
+    "0": "Mehmonxonamizdagi xonalar",
+    "1": "Maydoni: ",
+    "2": "Mehmonlar soni: ",
+    "3": "1 kechaning narxi: ",
+    "4": "Band qilish",
+    "5": "Oilaviy to'plam",
+    "6": "so'm"
+  },
+  "Comments": {
+    "0": "Tashriflar sharhlari",
+    "1": "Madina Hakimova",
+    "2": "Mehmonxona qoidalari umumiydir va tanlangan turar joy turiga qarab farq qilishi mumkin. Mehmonxona qoidalari umumiydir va tanlangan turar joy turiga qarab farq qilishi mumkin"
+  },
+  "Contacts": {
+    "0": "Kontaktlar",
+    "1": "Ismingiz",
+    "2": "Ismingiz",
+    "3": "Telefon raqamingiz",
+    "4": "Yuborish",
+    "5": "Xodimlarimiz bir soat ichida siz bilan bog'lanadi!",
+    "6": "Bizning manzilimiz",
+    "7": "160 Bog'ishamol ko'chasi",
+    "8": "Bizga yozing",
+    "9": "Bizga qo'ng'iroq qiling",
+    "10": "Biz ijtimoiy tarmoqlardamiz"
+  },
+  "News": {
+    "0": "Yangiliklar",
+    "1": "Toshkentda hashamatli mehmonxona ochildi",
+    "2": "Mehmonxona qoidalari umumiydir va tanlangan turar joy turiga qarab farq qilishi mumkin... Batafsil ma'lumot",
+    "3": "Batafsil o'qing"
+  }
+}

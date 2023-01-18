@@ -1,0 +1,50 @@
+.slick-next, .slick-prev {
+    font-size: 0;
+    line-height: 0;
+    top: 110%;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    border: 1px solid #9F9B9B;
+    border-radius: 50%;
+    outline: 0;
+    background: 0 0 !important;
+ }
+ .slick-prev{
+    left: 90% !important;
+ }
+ .slick-next{
+    right: 10px;
+ }
+ .sc-UpCWa.fIuiET > .slick-slider > .slick-prev,
+ .sc-UpCWa.fIuiET > .slick-slider > .slick-next{
+    top: -70px;
+ }
+ .sc-UpCWa.fIuiET > .slick-slider > .slick-prev{
+    left: 90% !important;
+ }
+ .sc-UpCWa.fIuiET > .slick-slider > .slick-next{
+    right: 10px;
+ }
+ .slick-next:before, .slick-prev:before {
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #fff;
+    background: none;
+ }
+ .slick-prev::before{
+    font-family: FontAwesome;
+    content: "\f060";
+    font-weight: 300;
+ }
+ .slick-next::before{
+    font-family: FontAwesome;
+    content: "\f061";
+    font-weight: 300;
+ }
